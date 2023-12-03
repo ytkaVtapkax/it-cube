@@ -346,6 +346,11 @@ header {
     border-radius: 10px;
 }
 
+.form__input:focus {
+    outline: none;
+    border: 1px solid #0d4c75;
+}
+
 .form__input_radio {
     margin-right: 0.6rem;
 }
