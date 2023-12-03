@@ -413,7 +413,6 @@ header {
 
 .contacts a {
     color: white;
-    border-bottom: 1px solid white;
     transition: all 0.6s;
 }
 
