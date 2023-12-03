@@ -417,13 +417,11 @@ header {
 }
 
 .contacts a:hover {
-    border-bottom: 1px solid #3283b9;
     color: #3283b9;
 }
 
 .contacts a:active {
     color: #0d4c75;
-    border-bottom: 1px solid #0d4c75;
 }
 
 /* анимация */
